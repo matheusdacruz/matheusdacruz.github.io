@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Minha página de teste</title>
+            <link href="estilos/estilo2.css" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap" 
+            rel="stylesheet">
+        </head>
+        <body>
+          <a href="https://matheusdacruz.github.io/teste-site/gn.5.1.html">Um novo começo!!!</a>
+          <a href="https://matheusdacruz.github.io/teste-site/sl.103.1-3.html">Segurança em Deus</a>
+          <a href="https://matheusdacruz.github.io/teste-site/sl.138.7.html">A respeito do meu Deus (Dia 7)</a>
+          <a href="https://matheusdacruz.github.io/teste-site/homenagem.html">Para alguém mais que especial (Dia 14)</a>
+          <p><q>Celebrai ao Senhor com júbilo todas as terras<q>.-Salmo 100.1
+          <p><q>Cantai ao Senhor um cântico novo, cantai ao Senhor toda a terra<q>.-Salmo 96.1 (Dia 23)</a>
+        </body>
+    </html>
