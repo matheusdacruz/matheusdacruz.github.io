@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <meta charset="utf-8">
+            <title>Minha página de teste</title>
+            <link href="estilos/estilo2.css" rel="stylesheet">
+            <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@1,800&display=swap" 
+            rel="stylesheet">
+        </head>
+        <body>
+            <p>O que te move, te faz sonhar, viver e respirar? Apenas algo satisfazia Jesus, fazer a vontade do Pai: João 4.32.
+            <p>Onde estou edificando minha casa?
+            <a href="https://www.bibliaonline.com.br/acf/mt/7">Mt.7.24-27 (Dia14)</a>
+             <a href="https://matheusdacruz.github.io/teste-site/is.56.5">Mais do filho (Dia16)</a>
+             <a href="https://www.bibliaonline.com.br/acf/is/60">A minha luz (Dia 19)</a>
+             <a href="https://www.bibliaonline.com.br/acf/is/61">A missão (Dia 20)</a>
+             <a href="https://www.bibliaonline.com.br/acf/sl/91">Meu refúgio (Dia 26)</a>
+            </p>
+        </body>
+    </html>
